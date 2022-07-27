@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://cos.pgyer.com/4f932062bc114fe68a2708f5996ecea2.ipa?sign=befe15652c0e3564d1447167b037e9f2&amp;t=1658894163&amp;response-content-disposition=attachment%3Bfilename%3D%E9%A3%9E%E5%87%A1%E6%B1%BD%E8%BD%A6_qa_%E4%BC%81%E4%B8%9A%E5%8C%85_3.5.5.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://cdn-app-icon.pgyer.com/c/f/e/1/e/cfe1e26784d6db94e4c10edb4c1934ae?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://cdn-app-icon.pgyer.com/c/f/e/1/e/cfe1e26784d6db94e4c10edb4c1934ae?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.saicmotor.rtest</string>
+                <key>bundle-version</key>
+                <string>3.5.5</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>飞凡汽车 qa 企业包</string>
+                <key>title</key>
+                <string>飞凡汽车 qa 企业包</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
