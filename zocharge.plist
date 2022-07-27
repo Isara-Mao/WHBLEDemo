@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://cos.pgyer.com/4f932062bc114fe68a2708f5996ecea2.ipa?sign=befe15652c0e3564d1447167b037e9f2&amp;t=1658894163&amp;response-content-disposition=attachment%3Bfilename%3D%E9%A3%9E%E5%87%A1%E6%B1%BD%E8%BD%A6_qa_%E4%BC%81%E4%B8%9A%E5%8C%85_3.5.5.ipa</string>
+                    <string>https://test-oss-public.oss-cn-shanghai.aliyuncs.com/ecology%2Fios%2FPublicApp.ipa?Expires=1659496243&amp;OSSAccessKeyId=LTAI5tLdHbJmcKR9JDctU3c5&amp;Signature=Zv%2BhjAkgdD1N%2F5p5X6WrlHtcphg%3D</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.saicmotor.rtest</string>
+                <string>com.zone.vehicle.app</string>
                 <key>bundle-version</key>
                 <string>3.5.5</string>
                 <key>kind</key>
