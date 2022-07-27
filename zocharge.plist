@@ -33,15 +33,15 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.saicmotor.rtest</string>
+                <string>com.zone.vehicle.app</string>
                 <key>bundle-version</key>
                 <string>3.5.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>飞凡汽车 qa 企业包</string>
+                <string>测试包</string>
                 <key>title</key>
-                <string>飞凡汽车 qa 企业包</string>
+                <string>测试包</string>
             </dict>
         </dict>
     </array>
