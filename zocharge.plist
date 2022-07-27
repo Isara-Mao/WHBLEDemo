@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.133.15.14/nexus3/repository/ios-snapshots/com/tsp/lingshu/iOS/images/icon.57x57.png</string>
+					<string>https://cdn-app-icon.pgyer.com/c/f/e/1/e/cfe1e26784d6db94e4c10edb4c1934ae?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.133.15.14/nexus3/repository/ios-snapshots/com/tsp/lingshu/iOS/images/icon.512x512.png</string>
+					<string>https://cdn-app-icon.pgyer.com/c/f/e/1/e/cfe1e26784d6db94e4c10edb4c1934ae?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
